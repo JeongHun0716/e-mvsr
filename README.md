@@ -57,7 +57,7 @@ You can evaluate the performance of the finetuned model using the scripts availa
 ## Pretrained Models
 
 
-| Model         | Training Datasets  | Training data (h)  |    Target Languages     |
+| Model         | Training Datasets  | Training data (h)  |    Used Languages     |
 |--------------|:----------|:------------------:|:----------:|
 | [mavhubert.pt](https://www.dropbox.com/scl/fi/oiptq2pxwv386v80ym4kk/fr_mted_wer_65.3.pth?rlkey=b6by808fog6xw1ofkvmpvj68s&st=6k5gmhsz&dl=0](https://www.dropbox.com/scl/fi/q69xmqh4igcomspqhpggz/mavhubert.pt?rlkey=9960ezpsnkvobz1occ1icb50f&st=2ut21gwd&dl=0)) |       mTEDx + LRS3 + VoxCeleb2 + AVSpeech + LRS2       |        5,512           |     En, Es, It, Fr, Pt, De, Ru, Ar, El  |
 | [unit_pretrained.pt](https://www.dropbox.com/scl/fi/pjhxyredi12bmz12ea8jl/fr_mted_vox_wer_60.6.pth?rlkey=nvsew9e3zc3vxdydk0nmund7k&st=sqkw3rl9&dl=0](https://www.dropbox.com/scl/fi/64odbr5ddfvm0er7voirv/unit_pretrained.pt?rlkey=eylztzedhq9wmha0jjqh8pp51&st=jes4wccd&dl=0)) |        mTEDx + LRS3 + VoxCeleb2 + AVSpeech            |        4,545          |     En, Es, It, Fr, Pt  |
