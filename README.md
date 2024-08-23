@@ -8,7 +8,7 @@ This repository contains the PyTorch implementation of the following paper:
 > \[[Paper](https://openreview.net/forum?id=rD7guYi6jZ)\]
 
 
-<div align="center"><img width="60%" src="img/img.png?raw=true" /></div>
+<div align="center"><img width="100%" src="img/img.png?raw=true" /></div>
 
 
 ## Environment Setup
