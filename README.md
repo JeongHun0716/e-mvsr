@@ -21,19 +21,10 @@ cd e-mvsr
 
 ```bash
 pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
-pip install numpy==1.23.5
-pip install editdistance
 (If your pip version > 24.1, please run "python3 -m pip install --upgrade pip==24.0")
-pip install omegaconf==2.0.6
-pip install hydra-core==1.0.7
-pip install python_speech_features
-pip install scipy
-pip install opencv-python
-pip install einops
-pip install soundfile
-pip install sentencepiece
-pip install tqdm
-pip install tensorboard
+pip install numpy==1.23.5 editdistance omegaconf==2.0.6 hydra-core==1.0.7
+pip install python_speech_features scipy opencv-python einops soundfile
+pip install sentencepiece tqdm tensorboard
 ```
 
 ## Dataset preparation
