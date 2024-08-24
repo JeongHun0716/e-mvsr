@@ -50,9 +50,9 @@ You can evaluate the performance of the finetuned model using the scripts availa
 
 | Model         | Training Datasets  | Training data (h)  |    Used Languages     |
 |--------------|:----------|:------------------:|:----------:|
-| [mavhubert.pt](https://www.dropbox.com/scl/fi/oiptq2pxwv386v80ym4kk/fr_mted_wer_65.3.pth?rlkey=b6by808fog6xw1ofkvmpvj68s&st=6k5gmhsz&dl=0](https://www.dropbox.com/scl/fi/q69xmqh4igcomspqhpggz/mavhubert.pt?rlkey=9960ezpsnkvobz1occ1icb50f&st=2ut21gwd&dl=0)) |       mTEDx + LRS3 + VoxCeleb2 + AVSpeech + LRS2       |        5,512           |     En, Es, It, Fr, Pt, De, Ru, Ar, El  |
-| [unit_pretrained.pt](https://www.dropbox.com/scl/fi/pjhxyredi12bmz12ea8jl/fr_mted_vox_wer_60.6.pth?rlkey=nvsew9e3zc3vxdydk0nmund7k&st=sqkw3rl9&dl=0](https://www.dropbox.com/scl/fi/64odbr5ddfvm0er7voirv/unit_pretrained.pt?rlkey=eylztzedhq9wmha0jjqh8pp51&st=jes4wccd&dl=0)) |        mTEDx + LRS3 + VoxCeleb2 + AVSpeech            |        4,545          |     En, Es, It, Fr, Pt  |
-| [finetuned.pt](https://www.dropbox.com/scl/fi/6pzmsmmvx2fjrjlvx6gkr/fr_mted_vox_avs_wer_58.3.pth?rlkey=sfqbsxcrfplzsumroyarw0e43&st=rv4ull1x&dl=0](https://www.dropbox.com/scl/fi/wf01ar46nu5hqx24ujdsc/finetuned.pt?rlkey=95xfxrohmx6q8vdctcpkhym6d&st=ao84uaye&dl=0)) |       mTEDx + LRS3 + VoxCeleb2 + AVSpeech     |        4,545         |    En, Es, It, Fr, Pt  |
+| [mavhubert.pt](https://www.dropbox.com/scl/fo/pv9ldbregra0okmykfu3f/AP53yir_loStodqzl6UD0a0?rlkey=ik0jdy6s1fdr62iuzyn6eopf6&st=pjk2qhnp&dl=0) |       mTEDx + LRS3 + VoxCeleb2 + AVSpeech + LRS2       |        5,512           |     En, Es, It, Fr, Pt, De, Ru, Ar, El  |
+| [unit_pretrained.pt](https://www.dropbox.com/scl/fo/ar81hqaf7t3bkx3b326cu/AAYOFhduVMLDFPwfzJhnLpE?rlkey=ku7b9209w9rljumenibqjg2v0&st=vl4kgkn4&dl=0) |        mTEDx + LRS3 + VoxCeleb2 + AVSpeech            |        4,545          |     En, Es, It, Fr, Pt  |
+| [finetuned.pt](https://www.dropbox.com/scl/fo/s99l48686q0lrpcugjvi1/AAptetzX0TRr5YPQwRlXOLc?rlkey=as88xz20ojtwof1tizvmwzl8c&st=trb74thj&dl=0) |       mTEDx + LRS3 + VoxCeleb2 + AVSpeech     |        4,545         |    En, Es, It, Fr, Pt  |
 
 ## Citation
 If you find this work useful in your research, please cite the paper:
