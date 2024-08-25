@@ -25,6 +25,8 @@ pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --e
 pip install numpy==1.23.5 editdistance omegaconf==2.0.6 hydra-core==1.0.7
 pip install python_speech_features scipy opencv-python einops soundfile
 pip install sentencepiece tqdm tensorboard
+cd fairseq
+pip install --editable ./
 ```
 
 ## Dataset preparation
