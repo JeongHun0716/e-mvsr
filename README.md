@@ -50,9 +50,9 @@ You can evaluate the performance of the finetuned model using the scripts availa
 
 | Model         | Training Datasets  | Training data (h)  |    Used Languages     |
 |--------------|:----------|:------------------:|:----------:|
-| [mavhubert.pt](https://www.dropbox.com/scl/fo/pv9ldbregra0okmykfu3f/AP53yir_loStodqzl6UD0a0?rlkey=ik0jdy6s1fdr62iuzyn6eopf6&st=pjk2qhnp&dl=0) |       mTEDx + LRS3 + VoxCeleb2 + AVSpeech + LRS2       |        5,512           |     En, Es, It, Fr, Pt, De, Ru, Ar, El  |
-| [unit_pretrained.pt](https://www.dropbox.com/scl/fo/ar81hqaf7t3bkx3b326cu/AAYOFhduVMLDFPwfzJhnLpE?rlkey=ku7b9209w9rljumenibqjg2v0&st=vl4kgkn4&dl=0) |        mTEDx + LRS3 + VoxCeleb2 + AVSpeech            |        4,545          |     En, Es, It, Fr, Pt  |
-| [finetuned.pt](https://www.dropbox.com/scl/fo/s99l48686q0lrpcugjvi1/AAptetzX0TRr5YPQwRlXOLc?rlkey=as88xz20ojtwof1tizvmwzl8c&st=trb74thj&dl=0) |       mTEDx + LRS3 + VoxCeleb2 + AVSpeech     |        4,545         |    En, Es, It, Fr, Pt  |
+| [mavhubert.pt](https://www.dropbox.com/scl/fo/pv9ldbregra0okmykfu3f/AP53yir_loStodqzl6UD0a0?rlkey=3iifzcqfohe6hrekkfvus0bgc&st=dfcfg97l&dl=0) |       mTEDx + LRS3 + VoxCeleb2 + AVSpeech + LRS2       |        5,512           |     En, Es, It, Fr, Pt, De, Ru, Ar, El  |
+| [unit_pretrained.pt](https://www.dropbox.com/scl/fo/ar81hqaf7t3bkx3b326cu/AAYOFhduVMLDFPwfzJhnLpE?rlkey=47dzwwakrmfd4y3gptyprryt6&st=gj8al1k6&dl=0) |        mTEDx + LRS3 + VoxCeleb2 + AVSpeech            |        4,545          |     En, Es, It, Fr, Pt  |
+| [finetuned.pt](https://www.dropbox.com/scl/fo/s99l48686q0lrpcugjvi1/AAptetzX0TRr5YPQwRlXOLc?rlkey=bh385e40hr6t0vgtk83f7ew4c&st=2qifsr0j&dl=0) |       mTEDx + LRS3 + VoxCeleb2 + AVSpeech     |        4,545         |    En, Es, It, Fr, Pt  |
 
 ## Citation
 If you find this work useful in your research, please cite the paper:
