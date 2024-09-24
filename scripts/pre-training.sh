@@ -5,7 +5,7 @@ src_pth=$current_pth/src
 data_pth=???
 checkpoint_save_pth=???
 
-PYTHONPATH=/mnt/ssd3/jh/Exp/iclr24/av_hubert/fairseq \
+PYTHONPATH=$fairseq_pth \
 CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 fairseq-hydra-train \
     --config-dir $src_pth/conf/ \
     --config-name unit_pretraining.yaml \
